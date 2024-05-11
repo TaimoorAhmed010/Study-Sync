@@ -1,1 +1,1 @@
-studysyncnew.netlify.app
+https://studysyncnew.netlify.app/
