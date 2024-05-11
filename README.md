@@ -1,0 +1,1 @@
+studysyncnew.netlify.app
